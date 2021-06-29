@@ -36,7 +36,7 @@ $ git commit -m ":tada: introducing <your-github-username>"
 
 ## 7. Push to the branch:
 ```bash
-$ git push origin new-feature
+$ git push origin <your-name>
 ```
 
 ## 8. Submit a pull request.
