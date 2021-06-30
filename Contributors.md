@@ -19,5 +19,6 @@ People are giving themselves and their free time to contribute to open source pr
 - [Saiful Alam Rakib](https://github.com/4msar)
 - [Pervez Ali](https://github.com/pervez-ali)
 - [Naimul Kabir](https://github.com/kabirnayeem99)
+- [Jewel Nath](https://github.com/devjewel01)
 - [Mestu Paul](https://github.com/Mestu-Paul)
 - <!-- Write here -->
