@@ -22,4 +22,5 @@ People are giving themselves and their free time to contribute to open source pr
 - [Jewel Nath](https://github.com/devjewel01)
 - [Mestu Paul](https://github.com/Mestu-Paul)
 - [Samin Yasar](https://github.com/saminyasar004)
+- [RiFat](https://github.com/Rifat977/)
 - <!-- Write here -->
