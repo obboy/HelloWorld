@@ -21,5 +21,9 @@ People are giving themselves and their free time to contribute to open source pr
 - [Naimul Kabir](https://github.com/kabirnayeem99)
 - [Jewel Nath](https://github.com/devjewel01)
 - [Mestu Paul](https://github.com/Mestu-Paul)
+- [Samin Yasar](https://github.com/saminyasar004)
+- [RiFat](https://github.com/Rifat977/)
+- [Md.Shajjed Hossan Shohag](https://github.com/Shajjed1211)
+- [Mahfuz Ahmed](https://github.com/mahfuz4223)
 - [Nayeem Islam](https://github.com/nayeem101)
 - <!-- Write here -->
