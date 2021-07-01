@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
     <img src="./assets/banner.svg" alt="✨ All Contributors ✨" width="800px" />
 </div>
 
@@ -23,4 +23,5 @@ People are giving themselves and their free time to contribute to open source pr
 - [Mestu Paul](https://github.com/Mestu-Paul)
 - [Samin Yasar](https://github.com/saminyasar004)
 - [RiFat](https://github.com/Rifat977/)
+- [Shajjed1211](https://github.com/Shajjed1211)
 - <!-- Write here -->
