@@ -26,4 +26,5 @@ People are giving themselves and their free time to contribute to open source pr
 - [Md.Shajjed Hossan Shohag](https://github.com/Shajjed1211)
 - [Mahfuz Ahmed](https://github.com/mahfuz4223)
 - [Nayeem Islam](https://github.com/nayeem101)
+- [Mykel Barua](https://github.com/mykelbarua)
 - <!-- Write here -->
