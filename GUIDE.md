@@ -2,9 +2,9 @@
 # First Contributions
 
 
-Our Community appreciates [firstcontribution](https://github.com/Open-Source-Project-Team/HelloWorld) community to support beginners. We are excited to add their steps here which we suggest to follow.
+Our Community appreciates [firstcontribution](https://github.com/firstcontributions/first-contributions) community to support beginners. We are excited to add their steps here which we suggest to follow.
 
-[firstcontribution](https://github.com/Open-Source-Project-Team/HelloWorld)  aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
+[firstcontribution](https://github.com/firstcontributions/first-contributions)  aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 
 _If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
 
@@ -58,7 +58,7 @@ git checkout -b your-new-branch-name
 For example:
 
 ```
-git checkout -b add-alonzo-church
+git checkout -b add-saadman-sayed
 ```
 
 (The name of the branch does not need to have the word _add_ in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
@@ -99,11 +99,11 @@ replacing `<add-your-branch-name>` with the name of the branch you created earli
 
 If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="assets/compare-and-pull-request.png" alt="create a pull request" />
 
 Now submit the pull request.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="assets/create-pull-request.png" alt="submit pull request" />
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
