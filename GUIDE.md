@@ -2,13 +2,13 @@
 # First Contributions
 
 
-Our Community appreciates [firstcontribution](https://github.com/firstcontributions/first-contributions) community to support beginners. We are excited to add their steps here which we suggest to follow.
+Our Community appreciates [firstcontribution](https://github.com/Open-Source-Project-Team/HelloWorld) community to support beginners. We are excited to add their steps here which we suggest to follow.
 
-[firstcontribution](https://github.com/firstcontributions/first-contributions)  aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
+[firstcontribution](https://github.com/Open-Source-Project-Team/HelloWorld)  aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 
 _If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="assets/Fork.jpg" alt="fork this repository" />
 
 #### If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/).
 
@@ -19,7 +19,7 @@ This will create a copy of this repository in your account.
 
 ## Clone the repository
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="assets/Clone.jpg" alt="clone this repository" />
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
 
@@ -31,7 +31,7 @@ git clone "url you just copied"
 
 where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="assets/Copy_Url.jpg" alt="copy URL to clipboard" />
 
 For example:
 
