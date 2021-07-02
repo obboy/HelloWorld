@@ -83,7 +83,7 @@ Now commit those changes using the `git commit` command:
 git commit -m ":tada: introducing <your-github-username>"
 ```
 
-replacing `<your-changes>` with your changes.
+replacing `<your-github-username>` with your github name.
 
 ## Push changes to GitHub
 
