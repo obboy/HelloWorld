@@ -31,5 +31,6 @@ People are giving themselves and their free time to contribute to open source pr
 - [Ashik](https://github.com/ashikprodhan)
 - [Saadman sayeed](https://github.com/bakebit-official)
 - [NeamotNaim](https://github.com/NeamotNaim)
+- [tarektusher](https://github.com/tarektusher)
 - <!-- Write here -->
 
