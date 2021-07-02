@@ -118,6 +118,6 @@ This steps are explained in another opensource community development project als
 
 Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io/#social-share).
 
-You could join their slack team in case you need any help or have any questions. [Join discord team](https://discord.gg/cwAd9ey5).
+You could join our discord team in case you need any help or have any questions. [Join discord team](https://discord.gg/cwAd9ey5).
 
 Now let's get you started with contributing to other projects. They've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
