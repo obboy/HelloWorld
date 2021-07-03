@@ -37,4 +37,5 @@ People are giving themselves and their free time to contribute to open source pr
 - [Sakib](https://github.com/Sakib-Fahmid)
 - [Aashiq](https://github.com/Nafario)
 - [Muhammad-Asif](https://github.com/Mohammad-Asif-Web)
+- [Ifat-Fahim](https://github.com/Ifat-Fahim)
 - <!-- Write here -->
