@@ -35,5 +35,5 @@ People are giving themselves and their free time to contribute to open source pr
 - [Shakuat Shraban](https://github.com/Shraban-7)
 - [tarektusher](https://github.com/tarektusher)
 - [Sakib](https://github.com/Sakib-Fahmid)
+- [Aashiq](https://github.com/Nafario)
 - <!-- Write here -->
-
