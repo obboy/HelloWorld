@@ -41,6 +41,6 @@ People are giving themselves and their free time to contribute to open source pr
 - [Musleh](https://github.com/musleh0001)
 - [AbrarShahriar](https://github.com/AbrarShahriar)
 - [Rafi Rafsan](https://github.com/rafi1903139)
-- [ABDULLAH5599](https://github.com/ABDULLAH5599)
+- [Sifat Adnan](https://github.com/ABDULLAH5599)
 - <!-- Write here -->
 
