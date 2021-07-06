@@ -20,8 +20,13 @@ $ git checkout -b <your-name>
 ## 4. Open `Contributors.md`
 Write your name, github profile link in the end of the file and save it.
 ```
-[your-name](<your-github-profile-url>)
+- [your-name](<your-github-profile-url>)
+- <!--write here-->
 ```
+ **Please don't delete this line**
+ ```
+ - <!--write here-->
+ ```
 
 ## 5. Select file to commit
 ```bash
