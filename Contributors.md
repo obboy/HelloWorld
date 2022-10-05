@@ -47,4 +47,5 @@ People are giving themselves and their free time to contribute to open source pr
 - [Belal Uddin](https://github.com/Belal-uddin)
 - [PrantoMondal](https://github.com/PrantoMondal)
 - [Tahsin Ahmed](https://github.com/tahsin-npx)
+-[Farhan Uz Zaman](https://github.com/Farhan-Uz-Zaman)
 - <!-- Write here -->
