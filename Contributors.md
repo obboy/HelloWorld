@@ -13,7 +13,7 @@ People are giving themselves and their free time to contribute to open source pr
 
 <!-- write down your name and github profile (do not delete anything) -->
 
-- [Mohammad Rahi](https://github.com/mohammad-rahi))
+- [Mohammad Rahi](https://github.com/mohammad-rahi)
 - [Samiur Prapon](https://github.com/samiurprapon)
 - [Md Habibur Rahman](https://github.com/yourchocomate)
 - [Aslam Mahmud Siam](https://github.com/Amsiam)
