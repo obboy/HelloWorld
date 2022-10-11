@@ -1,4 +1,4 @@
-#### _Read this in <kbd>[<img title="বাংলা" alt="বাংলা" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/bd.svg" width="22">](translations/README.bn.md)</kbd> বাংলা_
+#### _Read this in <kbd>[<img title="বাংলা" alt="বাংলা" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/bd.svg" width="22"> বাংলা](translations/README.bn.md)</kbd>_
 
 # Hello World
 
