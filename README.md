@@ -1,3 +1,5 @@
+#### _Read this in <kbd>[<img title="বাংলা" alt="বাংলা" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/bd.svg" width="22">](translations/README.bn.md)</kbd>_
+
 # Hello World
 
 This project aims to simplify and guide our community to make their first contribution. We want each member of our community will have a contribution here.
