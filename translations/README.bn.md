@@ -5,7 +5,7 @@
 # শুরু হচ্ছে
 
 ## 1. এই রিপোজিটরি ফর্ক করুন
-<img src="assets/fork.png" alt="✨ All Contributors ✨" width="800px" />
+<img src="../assets/fork.png" alt="✨ All Contributors ✨" width="800px" />
 
 ## 2. রিপোজিটরি ক্লোন করুন
 ```bash
